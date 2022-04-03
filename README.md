@@ -2,7 +2,7 @@
 - 👀 I’m interested in Making Cheats Plugins ETC
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m currently fluent in 2 languages 
-- 📫 How to reach me Discord Jakezy#8281
+- 📫 How to reach me Discord Jakezy#1399
 
 <!---
 vJakezy/vJakezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
